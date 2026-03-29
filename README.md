@@ -10,7 +10,7 @@ Escolha a senha que quiser (Importante não se esquecer dela)
 Pronto os arquivos foram encriptados
 
 Como desencriptar?
-Para desencriptar basta abrir novamente o programa .exe e deigitar a senha que você criou
+Para desencriptar basta abrir novamente o programa .exe e digitar a senha que você criou
 Pronto os arquivos foram desencriptados
 
 Programa feito por Igor Camargos Alves
